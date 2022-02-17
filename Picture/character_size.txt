@@ -1,0 +1,14 @@
+length
+Head  = 2-13
+neck = 14-15
+hand = 16-31
+leg = 32-37
+
+width
+left hand = 2-9
+body = 10,11
+head = 12- 27
+body = 28,29
+right hand = 0-37
+left leg = 8-19
+rght leg = 20-13
